@@ -11,3 +11,5 @@ License: MIT + file LICENSE
 ByteCompile: true
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/JamesFLoftus/james
+BugReports: https://github.com/JamesFLoftus/james/issues

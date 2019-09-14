@@ -1,3 +1,6 @@
 .Rproj.user
 .Rhistory
 .RData
+james.Rcheck/
+james*.tar.gz
+james*.tgz
